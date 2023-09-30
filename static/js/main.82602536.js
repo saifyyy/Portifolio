@@ -22436,8 +22436,8 @@
         })(fe || (fe = {}));
       var pe =
           n.p +
-          "../../../../static/media/mail-to.0792e732824567f51677c3b85449f77c.svg",
-        he = n.p + "../../../../static/media/dots.35f111eb09e71c456e61.png",
+          "../../static/media/mail-to.0792e732824567f51677c3b85449f77c.svg",
+        he = n.p + "../../static/media/dots.35f111eb09e71c456e61.png",
         me = n(6417),
         ge = function () {
           return (0, me.jsx)("main", {
