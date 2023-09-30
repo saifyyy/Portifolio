@@ -22436,8 +22436,8 @@
         })(fe || (fe = {}));
       var pe =
           n.p +
-          "../../static/media/mail-to.0792e732824567f51677c3b85449f77c.svg",
-        he = n.p + "../../static/media/dots.35f111eb09e71c456e61.png",
+          "static/media/media/mail-to.0792e732824567f51677c3b85449f77c.svg",
+        he = n.p + "static/media/media/dots.35f111eb09e71c456e61.png",
         me = n(6417),
         ge = function () {
           return (0, me.jsx)("main", {
@@ -22670,7 +22670,7 @@
         };
       var xe =
           n.p +
-          "../../static/media/contact.c177f8fc60d69b8c40b1695238a512a4.svg",
+          "static/media/media/contact.c177f8fc60d69b8c40b1695238a512a4.svg",
         Se = function () {
           var e = [
             {
@@ -22853,9 +22853,9 @@
         }
         return e;
       }
-      var Te = n.p + "../../static/media/base.27546f2944ca41ed274a.png",
-        _e = n.p + "../../static/media/jamia.ac5a0514c31f568ce915.png",
-        Pe = n.p + "../../static/media/PORTFOLIO.01fce81974800df5c7c3.png",
+      var Te = n.p + "static/media/media/base.27546f2944ca41ed274a.png",
+        _e = n.p + "static/media/media/jamia.ac5a0514c31f568ce915.png",
+        Pe = n.p + "static/media/media/PORTFOLIO.01fce81974800df5c7c3.png",
         je = n(792),
         Ie = n.n(je),
         De = function () {
@@ -23136,10 +23136,10 @@
             ],
           });
         },
-        Me = n.p + "../../static/media/api.3359e7f20b20b1164fe5.png",
-        Le = n.p + "../../static/media/web.eb760da3d6ef53bca567.png",
-        Be = n.p + "../../static/media/soft.07b28cffd41e7c306fe1.png",
-        Re = n.p + "../../static/media/figma.72fbc535ebe253a5dbc4.png",
+        Me = n.p + "static/media/media/api.3359e7f20b20b1164fe5.png",
+        Le = n.p + "static/media/media/web.eb760da3d6ef53bca567.png",
+        Be = n.p + "static/media/media/soft.07b28cffd41e7c306fe1.png",
+        Re = n.p + "static/media/media/figma.72fbc535ebe253a5dbc4.png",
         Fe = function () {
           var e = [
             {
@@ -23210,12 +23210,12 @@
         };
       var ze =
           n.p +
-          "../../static/media/bootstrap.997c463dca63c915b9a51f1caedef8e1.svg",
-        He = n.p + "../../static/media/react.2f2532db663fd5ec5f95.png",
-        Ue = n.p + "../../static/media/type.bb13ebd9561a6ee645c2.png",
-        Qe = n.p + "../../static/media/node.07d152a8a036951b8d14.png",
-        We = n.p + "../../static/media/javascript.166865dacb77d214f485.png",
-        Ve = n.p + "../../static/media/css.9f33c557b92e4e2e1cc8.png",
+          "static/media/media/bootstrap.997c463dca63c915b9a51f1caedef8e1.svg",
+        He = n.p + "static/media/media/react.2f2532db663fd5ec5f95.png",
+        Ue = n.p + "static/media/media/type.bb13ebd9561a6ee645c2.png",
+        Qe = n.p + "static/media/media/node.07d152a8a036951b8d14.png",
+        We = n.p + "static/media/media/javascript.166865dacb77d214f485.png",
+        Ve = n.p + "static/media/media/css.9f33c557b92e4e2e1cc8.png",
         qe = n(2963),
         Ye = n.n(qe),
         Ke = ye()("body");
