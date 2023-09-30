@@ -23137,7 +23137,7 @@
         Me = n.p + "static/media/api.3359e7f20b20b1164fe5.PNG",
         Le = n.p + "static/media/web.eb760da3d6ef53bca567.PNG",
         Be = n.p + "static/media/soft.07b28cffd41e7c306fe1.PNG",
-        Re = n.p + "static/media/figma.72fbc535ebe253a5dbc4.PNG",
+        Re = n.p + "static/media/figma.PNG",
         Fe = function () {
           var e = [
             {
