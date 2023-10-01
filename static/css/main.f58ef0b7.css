@@ -708,7 +708,7 @@ strong {
   z-index: 2;
 }
 .intro-page:after {
-  background-image: url(static/media/background.78f65f0d57d328c7311a.png);
+  background-image: url(media/background.78f65f0d57d328c7311a.png);
   background-size: cover;
   bottom: 0;
   content: "";
