@@ -1,25 +1,14 @@
 {
   "files": {
-    "main.css": "static/css/main.f58ef0b7.css",
-    "main.js": "static/js/main.82602536.js",
-    "static/media/background.PNG": "media/background.78f65f0d57d328c7311a.PNG",
-    "media/PORTFOLIO.PNG": "media/PORTFOLIO.01fce81974800df5c7c3.PNG",
-    "media/react.PNG": "media/react.2f2532db663fd5ec5f95.PNG",
-    "media/base.PNG": "media/base.27546f2944ca41ed274a.PNG",
-    "media/jamia.PNG": "media/jamia.ac5a0514c31f568ce915.PNG",
-    "media/soft.PNG": "media/soft.07b28cffd41e7c306fe1.PNG",
-    "media/css.PNG": "media/css.9f33c557b92e4e2e1cc8.PNG",
-    "media/javascript.PNG": "media/javascript.166865dacb77d214f485.PNG",
-    "media/mail-to.svg": "media/mail-to.0792e732824567f51677c3b85449f77c.svg",
-    "media/contact.svg": "media/contact.c177f8fc60d69b8c40b1695238a512a4.svg",
-    "media/web.PNG": "media/web.eb760da3d6ef53bca567.PNG",
-    "media/api.PNG": "media/api.3359e7f20b20b1164fe5.PNG",
-    "media/node.PNG": "media/node.07d152a8a036951b8d14.PNG",
-    "media/figma.PNG": "media/figma.PNG",
-    "media/type.PNG": "media/type.bb13ebd9561a6ee645c2.PNG",
-    "media/dots.PNG": "media/dots.35f111eb09e71c456e61.PNG",
+    "main.css": "/static/css/main.b371e049.css",
+    "main.js": "/static/js/main.4787caef.js",
+    "static/media/mail-to.svg": "/static/media/mail-to.0792e732824567f51677c3b85449f77c.svg",
+    "static/media/contact.svg": "/static/media/contact.c177f8fc60d69b8c40b1695238a512a4.svg",
     "index.html": "/index.html",
-    "static/media/bootstrap.svg": "static/media/bootstrap.997c463dca63c915b9a51f1caedef8e1.svg"
+    "static/media/bootstrap.svg": "/static/media/bootstrap.997c463dca63c915b9a51f1caedef8e1.svg"
   },
-  "entrypoints": ["static/css/main.f58ef0b7.css", "static/js/main.82602536.js"]
+  "entrypoints": [
+    "static/css/main.b371e049.css",
+    "static/js/main.4787caef.js"
+  ]
 }
