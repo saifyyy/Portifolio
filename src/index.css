@@ -117,7 +117,32 @@ section > div {
     width: 20px !important;
     font-size: 1.5rem !important;
   }
+  .hello {
+    width: 90% !important;
+  }
+  .name {
+    width: 90% !important;
+  }
+  .job {
+    width: 90% !important;
+  }
+  .title h3 {
+    width: 90% !important;
+  }
+  .service-title h3 {
+    width: 90% !important;
+  }
+  .progress-title h3 {
+    width: 90% !important;
+  }
+  .mywork-title h3 {
+    width: 90% !important;
+  }
+  .reachme-title2 h3 {
+    width: 90% !important;
+  }
 }
+
 .owl-dots {
   display: flex !important;
 }
