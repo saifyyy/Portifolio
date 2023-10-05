@@ -16,21 +16,22 @@ import Email from "../components/EmailMe/Email";
 
 function App() {
   // Preloader
-  $(window).on("load", function () {
-    if ($("#preloader").length) {
-      $("#preloader")
-        .delay(100)
-        .fadeOut("slow", function () {
-          $(this).remove();
-        });
-    }
-  });
-
   useEffect(() => {
     AOS.init({
       duration: 1500,
       once: true,
     });
+
+    // Hide preloader when the page has fully loaded
+    window.onload = function () {
+      if ($("#preloader").length) {
+        $("#preloader")
+          .delay(100)
+          .fadeOut("slow", function () {
+            $(this).remove();
+          });
+      }
+    };
   }, []);
 
   return (
